@@ -13,7 +13,6 @@ public class Main {
 		System.out.print("Input y= ");
 		y = in.nextDouble();
 		in.close();
-
 		System.out.println("Result= " + Calculator.calculate(x, y));
 	}
 
